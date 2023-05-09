@@ -6,7 +6,7 @@ I believed it was a minor issue so I did not retrain it to change that, instead 
     else:
         return "Positive"
 
-Another setback was the test accuracy was 88% percent, I could have trained longer and gotten >95% but I did not
+Another setback was the test accuracy was 88%, I could have trained longer and gotten >95% but I did not
 I tried a lot of texts and i got the right result but 'this movie is interesting' produced negative when it is positive.
 
 The model's size was 220 mb was too big to be pushed to github. The public web interface link is only available from 09/05/2023 -12/05/2023.
